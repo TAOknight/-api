@@ -1,0 +1,9 @@
+{
+	"fcRouteDefault":[
+		{
+			"apiUri":"/skill-99452/entry",
+			"fcHandler":"index.handler",
+			"httpMethod":"POST"
+		}
+	]
+}
