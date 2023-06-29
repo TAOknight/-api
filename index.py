@@ -1,7 +1,7 @@
 import logging
 import json
 import base64
-import test
+import shadow
 
 def common_reply(reply, result_type, parameter_name, intent_id, gw_commands):
     response = {
